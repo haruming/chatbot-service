@@ -1,0 +1,17 @@
+2018-10-16T02:09:03.790Z [chatbot-service] info: app bootstrap completed.
+2018-10-16T02:09:09.968Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T03:56:12.191Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T06:49:14.008Z [chatbot-service] info: app bootstrap completed.
+2018-10-16T06:49:47.024Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T08:44:06.917Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T08:44:16.852Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T08:53:19.415Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T10:11:42.389Z [chatbot-service] info: app bootstrap completed.
+2018-10-16T10:12:18.222Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T10:13:43.623Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T10:16:46.776Z [chatbot-service] info: in POST /services/rest/message
+2018-10-16T10:16:47.000Z [chatbot-service] info: in PATCH /services/rest/message/5bc5ba8e3843c187810c8868
+2018-10-16T10:19:28.809Z [chatbot-service] info: app bootstrap completed.
+2018-10-16T10:19:38.651Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-16T10:19:52.466Z [chatbot-service] info: in POST /services/rest/message
+2018-10-16T10:19:52.718Z [chatbot-service] info: in PATCH /services/rest/message/5bc5bb48d9a21687a1e6c54a

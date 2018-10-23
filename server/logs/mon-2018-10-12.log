@@ -1,0 +1,74 @@
+2018-10-12T02:28:29.021Z [chatbot-service] info: app bootstrap completed.
+2018-10-12T02:29:22.749Z [chatbot-service] info: app bootstrap completed.
+2018-10-12T02:30:37.521Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:30:53.252Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:33:29.450Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:33:41.479Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:33:54.199Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:34:40.195Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:37:21.774Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:37:26.879Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:37:29.649Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:37:33.375Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:37:55.132Z [chatbot-service] info: in POST /services/rest/message
+2018-10-12T02:37:55.351Z [chatbot-service] info: in PATCH /services/rest/message/5bc0090356978639b3b33981
+2018-10-12T02:38:01.852Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:41:18.184Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:41:30.887Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:41:42.015Z [chatbot-service] info: in POST /services/rest/message
+2018-10-12T02:41:42.222Z [chatbot-service] info: in PATCH /services/rest/message/5bc009e656978639b3b33982
+2018-10-12T02:41:46.044Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:43:36.844Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:43:42.234Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:43:50.054Z [chatbot-service] info: in POST /services/rest/message
+2018-10-12T02:43:50.267Z [chatbot-service] info: in PATCH /services/rest/message/5bc00a6656978639b3b33983
+2018-10-12T02:44:43.288Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:45:10.225Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:45:18.042Z [chatbot-service] info: in POST /services/rest/message
+2018-10-12T02:45:18.246Z [chatbot-service] info: in PATCH /services/rest/message/5bc00abe56978639b3b33984
+2018-10-12T02:45:20.751Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:45:38.823Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:45:49.915Z [chatbot-service] info: in POST /services/rest/message
+2018-10-12T02:45:50.110Z [chatbot-service] info: in PATCH /services/rest/message/5bc00add56978639b3b33985
+2018-10-12T02:45:52.915Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:46:03.556Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T02:46:09.124Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:05:18.026Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:07:30.101Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:08:58.751Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:09:33.643Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:14:02.848Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:18:14.198Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:19:58.395Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:20:27.025Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:20:44.433Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:21:32.644Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:21:52.008Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:22:45.366Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:32:50.635Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:34:27.734Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T03:34:52.462Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T06:38:53.039Z [chatbot-service] error: uncaughtException: Ran out of retries trying to reconnect to "sjnitapp20.sjn.its.paypalcorp.com:27017". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+DisconnectedError: Ran out of retries trying to reconnect to "sjnitapp20.sjn.its.paypalcorp.com:27017". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+    at MongooseError.DisconnectedError (C:\Users\weimyang\Desktop\chatbot-service\server\node_modules\mongoose\lib\error\disconnected.js:22:11)
+    at Server.<anonymous> (C:\Users\weimyang\Desktop\chatbot-service\server\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:64:31)
+    at emitOne (events.js:101:20)
+    at Server.emit (events.js:188:7)
+    at Pool.<anonymous> (C:\Users\weimyang\Desktop\chatbot-service\server\node_modules\mongoose\node_modules\mongodb-core\lib\topologies\server.js:327:16)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (C:\Users\weimyang\Desktop\chatbot-service\server\node_modules\mongoose\node_modules\mongodb-core\lib\connection\pool.js:317:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (C:\Users\weimyang\Desktop\chatbot-service\server\node_modules\mongoose\node_modules\mongodb-core\lib\connection\connection.js:189:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1277:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+2018-10-12T08:10:10.314Z [chatbot-service] info: app bootstrap completed.
+2018-10-12T08:10:15.823Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T08:17:31.150Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T08:40:21.996Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-12T08:40:49.904Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}

@@ -1,0 +1,50 @@
+2018-10-11T07:47:25.668Z [chatbot-service] error: uncaughtException: Cannot find module '../../models/user'
+Error: Cannot find module '../../models/user'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\weimyang\Desktop\chatbot-service\server\app\biz\user.js:1:76)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\weimyang\Desktop\chatbot-service\server\app\biz\index.js:6:9)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+2018-10-11T07:49:10.502Z [chatbot-service] info: app bootstrap completed.
+2018-10-11T07:49:55.923Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T07:49:56.134Z [chatbot-service] info: in PATCH /services/rest/message
+2018-10-11T07:54:59.485Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T07:54:59.685Z [chatbot-service] info: in PATCH /services/rest/message
+2018-10-11T08:01:46.483Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T08:01:46.813Z [chatbot-service] info: in PATCH /services/rest/message/:5bbf036ae49a9e679539919e
+2018-10-11T08:03:15.461Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T08:03:15.675Z [chatbot-service] info: in PATCH /services/rest/message/5bbf03c3e49a9e679539919f
+2018-10-11T08:04:06.616Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T08:04:06.821Z [chatbot-service] info: in PATCH /services/rest/message/5bbf03f6e49a9e67953991a0
+2018-10-11T08:18:04.186Z [chatbot-service] info: app bootstrap completed.
+2018-10-11T08:18:13.897Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T08:18:14.117Z [chatbot-service] info: in PATCH /services/rest/message/5bbf07456712913d39365c9e
+2018-10-11T08:18:36.040Z [chatbot-service] info: in POST /services/rest/message
+2018-10-11T08:18:36.242Z [chatbot-service] info: in PATCH /services/rest/message/5bbf075c6712913d39365c9f
+2018-10-11T08:19:20.240Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:06:02.524Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:17:56.036Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:21:43.699Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:22:56.101Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:31:26.162Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:38:14.951Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:38:25.587Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:40:43.330Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:51:21.128Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:52:20.964Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:52:45.243Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T09:57:39.988Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T10:07:09.672Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T10:08:13.793Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
+2018-10-11T10:09:45.392Z [chatbot-service] info: in GET /services/rest/message?query={%22username%22:%22weimyang@paypal.com%22}
